@@ -1,3 +1,6 @@
-.red-cl {
-    color: red;
+.container {
+ display: grid;
+ gap: 20px;
+ grid-template-columns: repeat(4,1fr);
+ margin: auto;
 }
