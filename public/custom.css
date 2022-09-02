@@ -4,3 +4,11 @@
  grid-template-columns: repeat(4,1fr);
  margin: auto;
 }
+.alig-content {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-items {
+ display: flex;
+ justify-content: space-between;
+}
