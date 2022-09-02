@@ -585,6 +585,10 @@ video {
   }
 }
 
+.fixed {
+  position: fixed;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -626,6 +630,14 @@ video {
 
 .ml-2 {
   margin-left: 0.5rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.ml-14 {
+  margin-left: 3.5rem;
 }
 
 .flex {
