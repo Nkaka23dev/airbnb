@@ -784,6 +784,10 @@ video {
   width: 1.75rem;
 }
 
+.w-3 {
+  width: 0.75rem;
+}
+
 .grid-cols-4 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
@@ -889,6 +893,11 @@ video {
   border-color: rgb(254 226 226 / var(--tw-border-opacity));
 }
 
+.border-gray-300 {
+  --tw-border-opacity: 1;
+  border-color: rgb(209 213 219 / var(--tw-border-opacity));
+}
+
 .bg-red-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity));
@@ -990,6 +999,10 @@ video {
 
 .pr-5 {
   padding-right: 1.25rem;
+}
+
+.font-bold {
+  font-weight: 700;
 }
 
 .text-red-500 {
